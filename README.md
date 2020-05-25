@@ -9,8 +9,8 @@
 <p align="center">Allows you to add an existing project on github to show all issues that the project has.</p>
 
 <p align="center">
-  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-## :rocket: Features
+## :rocket: Technologies
 
 <br />
 This app features all the latest tools and practices in web development!
@@ -42,7 +42,7 @@ This app features all the latest tools and practices in web development!
 
 <br />
 
-## 📢 Getting started
+## 📢 How to use
 
 <br />
 
