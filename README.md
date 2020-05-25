@@ -15,7 +15,7 @@
 </p>
 
 <div>
-  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" height="300">
+  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" height="200">
   <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" height="300">
   <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" height="300">
 </div>
