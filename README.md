@@ -9,22 +9,25 @@
 <p align="center">Allows you to add an existing project on github to show all issues that the project has.</p>
 
 <p align="center">
+  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
   <a href="https://opensource.org/licenses/MIT" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
 
 <div>
-  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" height="800">
-  <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" height="600">
-  <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" height="600">
+  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" width="800">
+  <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" width="600">
+  <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" width="600">
 </div>
 
-<p align="center">
-  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
+<br />
+<br />
 
 ## :rocket: Features
 
