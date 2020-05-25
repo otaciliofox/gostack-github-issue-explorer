@@ -52,7 +52,7 @@ Step 2 - Download the npm packages used in the project with the command: `npm` ,
 Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 <br />
-<br />
+
 
 ## :memo: License
 
