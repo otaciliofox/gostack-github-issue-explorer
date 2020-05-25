@@ -50,7 +50,7 @@ This app features all the latest tools and practices in web development!
 
 <br />
 
-Step 1 - Access our application's frontend folder;
+Step 1 - Access our application's folder;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
