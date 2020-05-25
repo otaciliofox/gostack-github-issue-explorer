@@ -21,9 +21,9 @@
 </p>
 
 <div>
-  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" width="800">
-  <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" width="600">
-  <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" width="600">
+  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" width="880">
+  <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" width="440">
+  <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" width="440">
 </div>
 
 <br />
