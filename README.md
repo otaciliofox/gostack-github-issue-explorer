@@ -15,9 +15,9 @@
 </p>
 
 <div>
-  <img src="./src/assets/github_explorer_page1" alt="screenshot of the home page" height="425">
-  <img src="./src/assets/github_explorer_page2" alt="screenshot of the rocketseat unform issues" height="425">
-  <img src="./src/assets/github_explorer_page3" alt="screenshot of the facebook reactjs issues" height="425">
+  <img src="./src/assets/github_explorer_page1.png" alt="screenshot of the home page" height="425">
+  <img src="./src/assets/github_explorer_page2.png" alt="screenshot of the rocketseat unform issues" height="425">
+  <img src="./src/assets/github_explorer_page3.png" alt="screenshot of the facebook reactjs issues" height="425">
 </div>
 
 <p align="center">
@@ -34,6 +34,8 @@ This app features all the latest tools and practices in web development!
 <br />
 
 - [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Styled Components](https://styled-components.com)
 
 ## 📢 Getting started
 
