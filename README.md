@@ -37,6 +37,8 @@ This app features all the latest tools and practices in web development!
 - [TypeScript](https://www.typescriptlang.org)
 - [Styled Components](https://styled-components.com)
 
+<br />
+
 ## 📢 Getting started
 
 <br />
